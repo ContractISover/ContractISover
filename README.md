@@ -1,6 +1,3 @@
-[![Mail](https://icons.getbootstrap.com/icons/envelope-at-fill/)](mailto:o7saab93@tutanota.com)
-[![Matrix](https://icons.getbootstrap.com/icons/chat/)](@contract0ver:matrix.org)
-
 - 👋 Hi, I’m @ContractISover
 - I am the founder and lead developer of Nabatean GNU+Linux
 - I make Arabic Translations
@@ -11,7 +8,7 @@
 ## Codeberg.org
 As I said before, I hate GitHub & Miscro$cum. So I use Codeberg instead and only GitHub when I need to. 
 
-[![Codeberg Profile](https://codeberg.org/contractover?tab=activity)
+https://codeberg.org/contractover?tab=activity
 
    Thank you for stoping by my profile.
 
